@@ -43,3 +43,7 @@ img {
 html {
     scroll-behavior: smooth;
 }
+
+a {
+    color: blue
+}
